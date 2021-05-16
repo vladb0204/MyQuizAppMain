@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyQuizAppMain</string>
+    <string name="password_is_too_short">Password must have at least 8 symbols!</string>
+    <string name="wrong_email">Wrong Email!</string>
+    <string name="network_not_available">Check your connect to the Internet!</string>
+    <string name="wrong_name">You have entered the wrong name!</string>
+    <string name="auth_restore_password">Restore password email has been send</string>
+    <string name="email_not_exist">This email doesn\'t exist!</string>
+    <string name="wrong_password">Wrong password!</string>
+    <string name="email_already_exist">This email already exists! Choose another one!</string>
+    <string name="too_many_attempts">Too many attemts to enter, try again later!</string>
+    <string name="welcome_slide_text">Weclome_text_slide</string>
+</resources>
